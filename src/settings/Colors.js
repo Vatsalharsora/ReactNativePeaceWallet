@@ -1,0 +1,22 @@
+export default {
+  primary: "#29c36a",
+  background: "#F5F8FA",
+  card: "#FFFFFF",
+  accent: "#F7C948",
+  white:"#FFFFFF",
+  black:"#000000",
+  text: "#1C1C1C",
+  hint: "#888888",
+  subtitle: "#BDBDBD",
+  danger: "#FF5555",
+  icon: "#757575",
+  green: "#29c36a",
+  red: "#ff4d4d",
+  success:"#28a745",
+  error:"#D9534F",
+  gray: "#666666",
+  grayLight:"#555555ad",
+  borderColor: "#cccccc",
+  unselected:"#f1f4f4",
+  unselectedText:"#333333"
+};
